@@ -1,0 +1,10 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "public"]
+	path = public
+	url = https://github.com/ggaspar/ggaspar.github.io.git
+	branch = main
+[submodule "themes/bigspring-hugo-startup-theme"]
+	path = themes/bigspring-hugo-startup-theme
+	url = git@github.com:themefisher/bigspring-hugo-startup-theme.git

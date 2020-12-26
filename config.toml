@@ -1,0 +1,4 @@
+baseURL = "http://digitalknowhow.fr/"
+languageCode = "en-us"
+title = "Digital Know How"
+theme = "ananke"
